@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # testdialogplugin
 
 A new Flutter project.
@@ -13,3 +14,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+=======
+# DialogPluginFlutter
+DialogPluginFlutter
+>>>>>>> 26927643364523a0ba3d35962dc2b55a3923e516
